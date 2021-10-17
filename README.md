@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chad Hicks</h1>
+<h1 align="center">Hi 👋, I'm Chad</h1>
 <h3 align="center">A curious developer in NYC</h3>
 
 - 🔭 I’m currently working on **an email text analyzer in python with NLTK**
