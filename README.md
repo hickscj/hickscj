@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chad</h1>
 <h3 align="center">A curious developer in NYC</h3>
 
-- 🔭 I’m currently working on **an email text analyzer in Python using NLTK**
-
 [LinkedIn](https://www.linkedin.com/in/chadjhicks/) |
 [Upwork](https://www.upwork.com/o/profiles/users/~01285ebd889fc6a59e/) | [Hired](https://hired.com)
 
