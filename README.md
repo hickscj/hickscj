@@ -1,8 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chad</h1>
 <h3 align="center">A curious developer in NYC</h3>
 
-[LinkedIn](https://www.linkedin.com/in/chadjhicks/) |
-[Upwork](https://www.upwork.com/o/profiles/users/~01285ebd889fc6a59e/) | [Hired](https://hired.com)
+<p align="center">
+            <a href="https://www.linkedin.com/in/chadjhicks/" target="_blank">LinkedIn</a>&nbsp;|&nbsp;
+            <a href="https://hired.com" target="_blank">Hired</a>&nbsp;|&nbsp;
+            <a href="https://www.upwork.com/o/profiles/users/~01285ebd889fc6a59e/" target="_blank">Upwork</a>
+</p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><a href="https://angular.io" target="_blank"> <img
