@@ -119,5 +119,5 @@
         alt="hickscj" />
 </p>
 <p>
-    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hickscj&" alt="hickscj" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hickscj&" alt="hickscj" />
 </p>
