@@ -3,8 +3,7 @@
 
 <p align="center">
             <a href="https://www.linkedin.com/in/chadjhicks/" target="_blank">LinkedIn</a>&nbsp;|&nbsp;
-            <a href="https://hired.com" target="_blank">Hired</a>&nbsp;|&nbsp;
-            <a href="https://www.upwork.com/o/profiles/users/~01285ebd889fc6a59e/" target="_blank">Upwork</a>
+            <a href="https://hired.com" target="_blank">Hired</a>
 </p>
 
 <h3 align="center">Languages and Tools I've worked with:</h3>
